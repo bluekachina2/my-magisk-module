@@ -1,0 +1,6 @@
+id=aaudiocapturefix
+name=Spotify AAudio Capture Fix (test)
+version=v0.1
+versionCode=1
+author=you
+description=Forces Spotify's AAudio streams to report ALLOW_CAPTURE_BY_ALL so the screen recorder can capture its audio. Test build, untested.
